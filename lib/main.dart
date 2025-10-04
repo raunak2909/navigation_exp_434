@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
           'url': 'https://images.pexels.com/photos/355321/pexels-photo-355321.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
         }),
       },*/
-      initialRoute: AppRoutes.home,
+      initialRoute: AppRoutes.splash,
       routes: AppRoutes.mRoutes,
     );
   }
